@@ -1,1 +1,11 @@
-Hello, this is Forth text fileHello, this is Forth text fileHello, this is Forth text fileHello, this is Forth text fileHello, this is Forth text fileHello, this is Forth text file
+This is Forth File modified:
+first:
+	Hello this is first text file
+Second:
+	Hello this is Second text file
+Third:
+	This is third File modified:
+first:
+	Hello this is first text file
+Second:
+	Hello this is Second text fileHello, this is Forth text file
